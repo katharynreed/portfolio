@@ -1,11 +1,13 @@
 h1.first {
   text-align: center;
   text-shadow: 10px;
-  font-family:'Archivo Narrow', sans-serif;
+  font-family:'Permanent Marker', cursive;
   font-size: 70px;
   color: black;
-  font-stretch: ultra-expanded;
+  font-stretch: condensed;
   text-transform: uppercase;
+  margin-top: .5px;
+
 }
 
 ul.rbullet {
@@ -60,8 +62,9 @@ img {
 
 #wrap{
   width: 100%;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 1px;
+  background-image: url(test5.png);
 
 }
 
@@ -72,13 +75,13 @@ img {
 }
 
 h1 {
-  font-family:'Archivo Narrow', sans-serif;
+  font-family:'Lato', sans-serif;
 }
 
 h2 {
-  font-family:'Archivo Narrow', sans-serif;
+  font-family:'Lato', sans-serif;
 }
 
 h3 {
-  font-family:'Archivo Narrow', sans-serif;
+  font-family:'Lato', sans-serif;
 }
