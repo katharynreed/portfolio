@@ -1,8 +1,11 @@
 h1.first {
   text-align: center;
   text-shadow: 10px;
-  font-family:'permanent marker', cursive;
+  font-family:'Archivo Narrow', sans-serif;
   font-size: 70px;
+  color: black;
+  font-stretch: ultra-expanded;
+  text-transform: uppercase;
 }
 
 ul.rbullet {
@@ -15,12 +18,27 @@ ul.rbullet {
   text-align: center;
 }
 
+.bar{
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #CDEAC0;
+
+}
+
+.body {
+  background-color: white;
+}
+body {
+  background-image:url("test3.png");
+}
+
 h1 {
-  background-image: url("test.png");
+  background-color: white;
   background-repeat: repeat;
   margin-top: 15px;
   margin-bottom: 15px;
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 30px;
 }
 
@@ -38,14 +56,20 @@ img {
 
 }
 
+#bar {
+  color: #CDEAC0;
+  padding-top: .5px;
+  padding-bottom: .5px;
+}
+
 h1 {
-  font-family:'permanent marker', cursive;
+  font-family:'Archivo Narrow', sans-serif;
 }
 
 h2 {
-  font-family:'permanent marker', cursive;
+  font-family:'Archivo Narrow', sans-serif;
 }
 
 h3 {
-  font-family:'permanent marker', cursive;
+  font-family:'Archivo Narrow', sans-serif;
 }
