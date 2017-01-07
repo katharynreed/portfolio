@@ -51,7 +51,6 @@ ul.rbullet {
   padding-top: 5px;
   padding-bottom: 1px;
   background-image: url(test5.png);
-
 }
 
 #bar {
@@ -64,15 +63,6 @@ body {
   background-image:url("test3.png");
 }
 
-h1 {
-  background-color: white;
-  background-repeat: repeat;
-  margin-top: 20px;
-  margin-bottom: 15px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-
 img {
   width: 200px;
   height: 200px;
@@ -80,10 +70,15 @@ img {
   margin-right: 20px;
   border: 1px solid #C5C4C4;
   background-color:black;
-
 }
 
 h1 {
+  background-color: white;
+  background-repeat: repeat;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   font-family: 'Montserrat', sans-serif;
   color:white;
   text-shadow: -4px 0 #B1F6CB, 0 4px #B1F6CB, 4px 0 #B1F6CB, 0 -4px #B1F6CB;
