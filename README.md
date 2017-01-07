@@ -24,6 +24,10 @@ If you have issues please contact me at katharynreedpierce@gmail.com
 
 HTML, CSS, and Bootstrap.
 
+## To View Sample
+
+https://katharynreed.github.io/portfolio/
+
 ### License
 
 *MIT License*
