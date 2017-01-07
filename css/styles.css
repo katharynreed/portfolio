@@ -14,7 +14,11 @@ margin-top: 5px;
 }
 
 ul.rbullet {
-  list-style: none;
+  list-style: none;;
+}
+
+.img-circle {
+  border-radius: 50%;
 }
 
 .center {
@@ -76,7 +80,7 @@ img {
   margin-right: 20px;
   border: 1px solid #C5C4C4;
   background-color:black;
-  s
+
 }
 
 h1 {
@@ -95,6 +99,10 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   color:white;
   text-shadow: -1px 0 #B1F6CB, 0 1px #B1F6CB, 1px 0 #B1F6CB, 0 -1px #B1F6CB;
+}
+
+ul {
+  list-style: square;
 }
 
 a {
